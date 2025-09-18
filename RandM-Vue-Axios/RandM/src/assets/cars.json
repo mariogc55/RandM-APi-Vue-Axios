@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "brand": "Toyota",
+        "model": "Corolla",
+        "year": 2022,
+        "imageUrl": "https://images.hgmsites.net/hug/2022-toyota-corolla_100813659_h.jpg",
+        "description": "Un sedán confiable y eficiente, ideal para uso diario."
+    },
+    {
+        "id": 2,
+        "brand": "Ford",
+        "model": "Mustang",
+        "year": 2021,
+        "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.eoahEhJz52gzStD8xPFk_AHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "description": "Un icónico deportivo americano con potente rendimiento."
+    },
+    {
+        "id": 3,
+        "brand": "Tesla",
+        "model": "Model 3",
+        "year": 2023,
+        "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.o1jqRGK2rfMe3pP8YTKsJAHaEc?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "description": "Vehículo eléctrico de alta tecnología con gran autonomía."
+    },
+    {
+        "id": 4,
+        "brand": "Honda",
+        "model": "Civic",
+        "year": 2022,
+        "imageUrl": "https://th.bing.com/th/id/R.61b936feb64a82cd53295e0456ed910d?rik=0fQhq%2bMvqhqpxA&pid=ImgRaw&r=0",
+        "description": "Conocido por su fiabilidad y diseño moderno."
+    },
+    {
+        "id": 5,
+        "brand": "BMW",
+        "model": "X5",
+        "year": 2021,
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-bmw-x5-mmp-1-1600284201.jpg?crop=1.00xw:0.750xh;0,0.149xh&resize=1200:*",
+        "description": "Un SUV de lujo con una experiencia de conducción superior."
+    },
+    {
+        "id": 6,
+        "brand": "Mercedes-Benz",
+        "model": "C-Class",
+        "year": 2022,
+        "imageUrl": "https://th.bing.com/th/id/R.25d25cf30778c68b23d6c2e4d80e5b81?rik=oMR6yFOtQYotjQ&pid=ImgRaw&r=0",
+        "description": "Elegancia y tecnología se unen en este sedán de lujo."
+    },
+    {
+        "id": 7,
+        "brand": "Audi",
+        "model": "Q7",
+        "year": 2023,
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2020-audi-q7-208-1584322589.jpg?crop=0.875xw:0.658xh;0.125xw,0.247xh&resize=1200:*",
+        "description": "Un SUV espacioso y lujoso con tecnología de punta."
+    },
+    {
+        "id": 8,
+        "brand": "Chevrolet",
+        "model": "Camaro",
+        "year": 2021,
+        "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.k7X3qwSH3AMM5b_OeNItJQHaEE?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "description": "Un potente muscle car con un diseño agresivo."
+    },
+    {
+        "id": 9,
+        "brand": "Volkswagen",
+        "model": "Golf GTI",
+        "year": 2023,
+        "imageUrl": "https://thfvnext.bing.com/th/id/OIP.0ZfKuNSKytgPI8ftYNmBFAHaEK?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "description": "Un icónico hatchback deportivo, divertido de conducir y práctico."
+    },
+    {
+        "id": 10,
+        "brand": "Kia",
+        "model": "Sorento",
+        "year": 2022,
+        "imageUrl": "https://cdn.motor1.com/images/mgl/7q1lq/s1/2022-kia-sorento-front-view.jpg",
+        "description": "SUV familiar con gran espacio interior y características de seguridad avanzadas."
+    },
+    {
+        "id": 11,
+        "brand": "Hyundai",
+        "model": "Tucson",
+        "year": 2023,
+        "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.56c-MOFT6eWrAI_TuVPENAHaE8?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "description": "Un SUV con diseño futurista y eficiente en el consumo de combustible."
+    },
+    {
+        "id": 12,
+        "brand": "Nissan",
+        "model": "Titan",
+        "year": 2021,
+        "imageUrl": "https://th.bing.com/th/id/R.127d506b47893b00e5572f5ba63184f9?rik=HmzUXDlMv%2fvmpQ&pid=ImgRaw&r=0",
+        "description": "Una camioneta robusta y potente, ideal para el trabajo pesado."
+    },
+    {
+        "id": 13,
+        "brand": "Lexus",
+        "model": "RX",
+        "year": 2022,
+        "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.atMKcviw2M-OFKtPIhfjfAHaEK?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "description": "Un SUV de lujo que combina confort, tecnología y fiabilidad."
+    },
+    {
+        "id": 14,
+        "brand": "Jeep",
+        "model": "Wrangler",
+        "year": 2023,
+        "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.HrHe0BN_IEyhs3YR1gxKlgHaEK?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "description": "El todoterreno definitivo, diseñado para la aventura fuera de la carretera."
+    },
+    {
+        "id": 15,
+        "brand": "Porsche",
+        "model": "911",
+        "year": 2022,
+        "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.VxYWHy-5yDxe8yPm7-c0YAHaEK?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "description": "Un legendario deportivo alemán con un diseño atemporal y alto rendimiento."
+    },
+    {
+        "id": 16,
+        "brand": "Volvo",
+        "model": "XC90",
+        "year": 2023,
+        "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.o-V6-FLWCjjj03zjZVDVQQHaE8?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "description": "Un SUV de lujo sueco conocido por su seguridad y diseño minimalista."
+    },
+    {
+        "id": 17,
+        "brand": "Subaru",
+        "model": "Forester",
+        "year": 2021,
+        "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.uXgd9oruxoREzmuc2BCX-QHaFj?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "description": "Un SUV compacto con tracción integral y excelente manejo en cualquier condición."
+    },
+    {
+        "id": 18,
+        "brand": "Mazda",
+        "model": "CX-5",
+        "year": 2022,
+        "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.QzBu91E_HtuNf35ncYEulAAAAA?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "description": "Un SUV con diseño elegante y una experiencia de conducción deportiva."
+    },
+    {
+        "id": 19,
+        "brand": "GMC",
+        "model": "Sierra",
+        "year": 2023,
+        "imageUrl": "https://th.bing.com/th/id/R.d24522d7c1db5b6fce71e2240d65c2f8?rik=Rux9XLu5z1GBbg&pid=ImgRaw&r=0",
+        "description": "Una camioneta premium con gran capacidad de remolque y acabados de lujo."
+    },
+    {
+        "id": 20,
+        "brand": "Cadillac",
+        "model": "Escalade",
+        "year": 2022,
+        "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.4jyEeXPGFcw77QDY15QZhQHaEK?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "description": "Un SUV de gran tamaño, conocido por su opulencia y avanzada tecnología."
+    }
+]
