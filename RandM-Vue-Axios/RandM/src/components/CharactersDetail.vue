@@ -45,7 +45,7 @@ async function fetchCharacter() {
     }
     const data = await response.json();
     personaje.value = data;
-    await fetchEpisodes(data.episode); // Llama a la nueva función para obtener episodios
+    await fetchEpisodes(data.episode);
   } catch (error) {
     console.error('Hubo un problema con la solicitud:', error);
   }
@@ -132,4 +132,5 @@ onMounted(() => {
 .back-button:hover {
   background-color: #b1b1b1;
 }
+
 </style>
