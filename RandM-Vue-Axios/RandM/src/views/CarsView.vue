@@ -61,21 +61,18 @@
       transform: scale(1.03);
     }
 
-    /* Contenedor de la imagen */
     .image-container {
       width: 100%;
       height: 200px;
       overflow: hidden;
     }
 
-    /* Estilos de la imagen para que se adapte al contenedor */
     .car-image {
       width: 100%;
       height: 100%;
       object-fit: cover;
     }
 
-    /* Contenedor principal del grid */
     .container {
       max-width: 80rem;
       margin: 0 auto;
@@ -85,7 +82,6 @@
       gap: 1rem;
     }
 
-    /* Media Query para móvil (a partir de 340px) */
     @media (min-width: 340px) {
       .container {
         grid-template-columns: repeat(2, 1fr);
@@ -93,7 +89,6 @@
       }
     }
 
-    /* Media Query para tablet (a partir de 768px) */
     @media (min-width: 768px) {
       .container {
         grid-template-columns: repeat(3, 1fr);
@@ -101,7 +96,6 @@
       }
     }
 
-    /* Media Query para PC (a partir de 1024px) */
     @media (min-width: 1024px) {
       .container {
         grid-template-columns: repeat(4, 1fr);
@@ -109,12 +103,10 @@
       }
     }
 
-    /* Estilo para el contenedor de texto */
     .text-content {
-      padding: 1rem; /* Añade un padding interno de 16px */
+      padding: 1rem;
     }
 
-    /* Estilo para el mensaje de "no encontrado" */
     #no-encontrado {
       text-align: center;
       font-size: 1.25rem;
@@ -127,4 +119,5 @@
       text-align: center;
       margin-top: 2rem;
     }
+
   </style>
