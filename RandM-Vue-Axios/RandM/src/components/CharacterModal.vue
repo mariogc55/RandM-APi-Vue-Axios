@@ -37,7 +37,6 @@ const fetchEpisodes = async () => {
     return;
   }
   
-  // Mapea y hace las peticiones, si solo hay un episodio, no se mapea, solo se hace la peticion para evitar errores.
   const episodeUrls = Array.isArray(props.character.episode) ? props.character.episode : [props.character.episode];
   const episodePromises = episodeUrls.map(url => fetch(url).then(res => res.json()));
 
@@ -142,4 +141,5 @@ li {
 li:last-child {
   border-bottom: none;
 }
+
 </style>
